@@ -6,10 +6,10 @@
 <p style="text-align: left;">&nbsp;</p>
 <h2 style="text-align: left;"><span style="text-decoration: underline;">Analytics Be Cool - analytics project</span></h2>
 <h4>&nbsp;Main&nbsp;Parts:</h4>
-<p>*opening the links in new window is recommanded</p>
+<p>*the links will be opened in a new window</p>
 <ol>
-<li><span style="text-decoration: underline;">Aquiring a data-set and cleaning it:<br /></span><br />desc<br />link<br /><br /></li>
-<li><span style="text-decoration: underline;">Exploring the data:<br /></span><br />desc<br />link<br /><br /></li>
+<li><span style="text-decoration: underline;">Aquiring a data-set:<br /></span><br />desc<br />link<br /><br /></li>
+<li><span style="text-decoration: underline;">Cleaning and Exploring the data:<br /></span><br />desc<br /><a href="https://github.com/matantsour/ABC_project_test/blob/gh-pages/ABC_Project_20.5.20.ipynb" target="_blank">link</a><br /><br /></li>
 <li><span style="text-decoration: underline;">Data-splitting and preperation for DB Structure:<br /></span><br />desc<br />link<br /><br /></li>
 <li><span style="text-decoration: underline;">Working With MySql- applying the data into DB and Creating DB Diagram:<br /></span><br />desc<br />link<br /><br /></li>
 </ol>
